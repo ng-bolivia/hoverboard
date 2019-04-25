@@ -3,7 +3,7 @@
   "description": "Se parte de la conferencia internacional de Angular en Bolivia.",
   "image": "images/social-share.jpg",
   "keywords": "evento, angular, google, programación, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "Agosto 23-24, 2018",
+  "dates": "August 23-24, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartir",
   "followOur": "Sigue nuestro",
@@ -11,15 +11,15 @@
   "emailUs": "Envíenos un correo",
   "partnershipResources": "Recursos de patrocinadores",
   "eventResources": "Recursos del evento",
-  "buyTicket": "Compra tu entrada",
+  "buyTicket": "Buy Ticket",
   "signIn": "Registrarse",
   "signOut": "Cerrar sesión",
-  "viewHighlights": "Ver destacados",
+  "viewHighlights": "View Highlights",
   "offlineMessage": "Todavía puedes ver el sitio sin conexión.",
   "cachingComplete": "Caching completo! El sitio funcionará sin conexión.",
   "newVersionAvailable": "Una nueva versión de esta aplicación está disponible.",
   "refresh": "Refrescar",
-  "position": "Ubicación",
+  "position": "Location",
   "country": "País",
   "time": "Hora",
   "faq": "/data/faq.md",
@@ -187,7 +187,7 @@
     }
   },
   "mapBlock": {
-    "title": "Ubicación"
+    "title": "Location"
   },
   "subscribeBlock": {
     "callToAction": {

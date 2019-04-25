@@ -47,7 +47,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Powered by Angular Bolivia",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -114,20 +114,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Gran Hotel Cochabamba",
+    "city": "Cochabamba",
+    "short": "Cochabamba, Bolivia",
+    "address": "Ubaldo Anze square, E-415, La Recoleta, Cochabamba, Bolivia",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": -17.3779696,
+      "longitude": -66.1522473,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -17.3779696,
+      "longitude": -66.1522473
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Gran Hotel Cochabamba, surrounded by large gardens, a majestic church, fountains and museums such as the Palace of Simón I. Patiño."
   },
   "mediaQueries": {
     "xs": {
