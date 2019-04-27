@@ -2,38 +2,38 @@
   "title": "NG Bolivia 2019",
   "description": "Se parte de la conferencia internacional de Angular en Bolivia.",
   "image": "images/social-share.jpg",
-  "keywords": "evento, angular, google, programación, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, angular, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "August 23-24, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Compartir",
-  "followOur": "Sigue nuestro",
-  "followUs": "Síguenos",
-  "emailUs": "Envíenos un correo",
-  "partnershipResources": "Recursos de patrocinadores",
-  "eventResources": "Recursos del evento",
+  "share": "Share",
+  "followOur": "Follow our",
+  "followUs": "Follow us",
+  "emailUs": "Email us",
+  "partnershipResources": "Partnership Resources",
+  "eventResources": "Event Resources",
   "buyTicket": "Buy Ticket",
-  "signIn": "Registrarse",
-  "signOut": "Cerrar sesión",
+  "signIn": "Sign in",
+  "signOut": "Sign out",
   "viewHighlights": "View Highlights",
-  "offlineMessage": "Todavía puedes ver el sitio sin conexión.",
-  "cachingComplete": "Caching completo! El sitio funcionará sin conexión.",
-  "newVersionAvailable": "Una nueva versión de esta aplicación está disponible.",
-  "refresh": "Refrescar",
+  "offlineMessage": "You can still work offline.",
+  "cachingComplete": "Caching complete! Future visits will work offline.",
+  "newVersionAvailable": "A new version of this app is available.",
+  "refresh": "Refresh",
   "position": "Location",
-  "country": "País",
-  "time": "Hora",
+  "country": "Country",
+  "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "Mi horario",
-    "browseSession": "Buscar sesiones"
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
     {
-      "title": "Acerca de",
+      "title": "About",
       "links": [
         {
           "name": "Angular Bolivia",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "title": "Explora los NG Bolivia pasados",
+      "title": "Explore Past DevFests",
       "links": [
         {
           "name": "NG Bolivia 2018",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "title": "Recursos del evento",
+      "title": "Event Resources",
       "links": [
         {
           "name": "Partnership Proposition",
@@ -81,52 +81,52 @@
           "newTab": true
         },
         {
-          "name": "Preguntas frecuentes",
+          "name": "FAQs",
           "url": "/faq/",
           "newTab": false
         }
       ]
     }
   ],
-  "subscribeNote": "No spam, solo las últimas noticias y actualizaciones!",
-  "codeOfConduct": "Código de Conducta",
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "Lo que necesitas saber, antes de preguntar.",
+    "title": "What you need to know, before you ask",
     "callToAction": {
       "featuredSessions": {
         "description": "¡La mayor conferencia Angular en Bolivia cuidadosamente diseñada para tener una gran experiencia por la comunidad Angular! NG Bolivia reúne expertos de clase mundial en tecnologías sobre Angular, Web y Mobile en Cochabamba Bolivia durante 2 días de sesiones, talleres y conferencias.",
-        "label": "Explorar sesión destacada",
+        "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLRejFvqDqGo6AMNYSLluAVGbq-CHQ0Lkt"
       },
       "howItWas": {
         "description": "NG Bolivia es una de las conferencias más importantes en tecnologías web en Bolivia y nuestro equipo diseña esta conferencia una vez al año para ser el mejor lugar para compartir experiencias en un ambiente fenomenal.",
-        "label": "Mira cómo fue en 2018",
+        "label": "See how it was in 2018",
         "youtubeId": "Q3pp4bm5H3I"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Asistentes",
-        "number": "300"
+        "label": "Attendees",
+        "number": "300+"
       },
       "days": {
-        "label": "Días",
+        "label": "Days",
         "number": "2"
       },
       "sessions": {
-        "label": "Conferencias",
+        "label": "Sessions",
         "number": "20"
       },
       "tracks": {
-        "label": "Talleres",
+        "label": "Workshops",
         "number": "4"
       }
     }
   },
   "ticketsBlock": {
-    "title": "Entradas",
-    "ticketsDetails": "Las entradas permiten el acceso a todas las secciones de la conferencia, coffee breaks y comidas. El alojamiento NO está incluido en el precio de la entrada.",
-    "soldOut": "¡Lo perdíste!",
+    "title": "Tickets",
+    "ticketsDetails": "Tickets grant access to all conference sections, and infinite coffee cups. Accommodation is NOT included in the ticket price.",
+    "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
