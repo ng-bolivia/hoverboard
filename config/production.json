@@ -1,7 +1,7 @@
 {
   "basepath": "/",
   "url": "https://ngboliviadev.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "analytics": "UA-119039264-1",
   "prefix": "/",
   "firebase": {
     "apiKey": "",
@@ -11,5 +11,5 @@
     "storageBucket": "",
     "messagingSenderId": ""
   },
-  "googleMapApiKey": ""
+  "googleMapApiKey": "AIzaSyC_UbHVz3BKN3qi-i2nS3nc8hyYU4MjUMI"
 }
