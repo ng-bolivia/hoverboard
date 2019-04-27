@@ -1,52 +1,26 @@
-### 1. Purpose
+**NG Bolivia** es la conferencia anual donde personas de todo el país vienen a compartir ideas, experiencias, nuevas prácticas y por supuesto la firme convicción de engrandecer esta comunidad y que las nuevas conexiones que se hagan durante el tiempo que dure la conferencia sean duraderas para este año y los que vengan.
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+Para este propósito la organización trabaja duro para fortalecer la comunidad e invitar a nuevas personas hacia la misma con el único propósito de trasmitir la pasión por la tecnología en la cual estamos involucrados. Es por eso que estamos convencidos de que para lograr que la comunidad sea una de las mejores consideramos que es importante tomar en cuenta diversos grupos de personas sin importar el **sexo**, **identidad y expresión de género**, **orientación sexual**, **discapacidad**, **apariencia física**, **tamaño corporal**, **raza**, **afiliación política o religión**.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+Pero también estamos convencidos que para lograr este propósito es importante contar con el compromiso no solo del equipo organizador, sino también de los expositores y por supuesto de todos los asistentes a la conferencia.
 
-### 2. Open [Source/Culture/Tech] Citizenship
+Es por eso que hemos establecidos ciertas reglas de conducta, mismas que marcarán la pauta para garantizar una estadía amigable e inolvidable para todos.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+## Reglas de Conducta:
 
-### 3. Expected Behavior
+* Evitar hablar en un tono que pueda ser ofensivo para las personas que están alrededor tuyo y que puedan hacer sentir incomodo y/o ofendido.
 
-The following behaviors are expected and requested of all community members:
+* Evitar hacer **burlas y/o comentarios** que involucren al sexo, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, afiliación política o religión.
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Cualquier nuevo vínculo formado entre los asistentes, disertantes y el staff será estrictamente relacionado a la conferencia, ya que este evento no es un lugar para buscar romance o relaciones de otra índole.
 
-### 4. Unacceptable Behavior
+* No está permitido el *Bullying* venga de donde venga esto incluye al staff, disertantes y visitantes.
 
-The following actions are considered harassment and are unacceptable within our community:
+* Evitar temas polarizados que pueda hacer sentir incómodo a otras personas, por ejemplo hablar específicamente de algún partido político o religión.
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+## Reportar Violaciones al código de conducta:
+El equipo ha diseñado mecanismo para poder ayudar a reportar algún hecho que rompa el código de conducta.
 
-###  5. Consequences of Unacceptable Behavior
+Si fuiste testigo de algún hecho de violación al código de conducta inmediatamente busca a algún miembro del staff que estará adecuadamente identificado.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
-
-### 6. Scope
-
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
-
-### 7. Contact info
-
-- Oleh Zasadnyy, +38 093 486 64 60, [o.zasadnyy@gdg.org.ua](mailto:o.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [s.huts@gdg.org.ua](mailto:s.huts@gdg.org.ua)
+El equipo organizador se guarda el derecho a tomar las debidas acciones ante el incumplimiento del código de conducta, estas acciones pueden ir desde retirarlos inmediatamente de la conferencia sin derecho a devolución alguna y/o dependiendo de la gravedad del caso se dará aviso a las autoridades correspondientes en nuestro territorio.
