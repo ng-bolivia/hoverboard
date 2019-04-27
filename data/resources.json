@@ -94,12 +94,12 @@
     "title": "What you need to know, before you ask",
     "callToAction": {
       "featuredSessions": {
-        "description": "¡La mayor conferencia Angular en Bolivia cuidadosamente diseñada para tener una gran experiencia por la comunidad Angular! NG Bolivia reúne expertos de clase mundial en tecnologías sobre Angular, Web y Mobile en Cochabamba Bolivia durante 2 días de sesiones, talleres y conferencias.",
+        "description": "The biggest Angular conference in Bolivia, our team creates that event to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLRejFvqDqGo6AMNYSLluAVGbq-CHQ0Lkt"
       },
       "howItWas": {
-        "description": "NG Bolivia es una de las conferencias más importantes en tecnologías web en Bolivia y nuestro equipo diseña esta conferencia una vez al año para ser el mejor lugar para compartir experiencias en un ambiente fenomenal.",
+        "description": "NG Bolivia 2019, brings together the world-class experts in Angular, Web and  Mobile technologies to Cochabamba, Bolivia for 2 days of sessions, workshops, and showcases.",
         "label": "See how it was in 2018",
         "youtubeId": "Q3pp4bm5H3I"
       }
