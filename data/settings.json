@@ -9,8 +9,8 @@
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#000000",
+    "backgroundColor": "#000000"
   },
   "dateFormat": {
     "locale": "en-US"
@@ -64,8 +64,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from the Speakers who are building the future of the web. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Speakers who are building the future of the web. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#FFF"
       },
