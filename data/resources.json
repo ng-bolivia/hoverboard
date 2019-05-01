@@ -115,11 +115,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "20"
+        "number": "20+"
       },
       "tracks": {
         "label": "Workshops",
-        "number": "4"
+        "number": "4+"
       }
     }
   },
@@ -142,7 +142,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Ng Bolivia 2018 featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -198,7 +198,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about NG Bolivia 2019 sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
