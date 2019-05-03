@@ -1,5 +1,5 @@
 import { initializeFirebase, firestore } from './firebase-config';
-import data from '../docs/default-firebase-data.json';
+import data from '../docs/ngbolivia-firebase-data.json';
 
 const importSpeakers = () => {
   const speakers = data.speakers;
