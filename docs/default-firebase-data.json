@@ -678,87 +678,86 @@
       "title" : "TBD"
     }
   },
-  "speakers" : [
-    {
-      "jorge_cano" : {
-        "bio" : "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
-        "company" : "Hero Dev",
-        "companyLogoUrl" : "https://lh3.google.com/u/0/d/1-ZuilaC7Cg4B90JWl6gOgCf9DzeR2mcI=w1920-h947-iv1",
-        "country" : "Buenos Aires, Argentina",
-        "featured" : true,
-        "name" : "Jorge Cano",
-        "order" : 0,
-        "photoUrl" : "https://pbs.twimg.com/profile_images/1088779016675430401/xDyQaZ0w_400x400.jpg",
-        "shortBio" : "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
-        "socials" : [
-          {
-            "icon" : "twitter",
-            "link" : "https://twitter.com/jorgeucano",
-            "name" : "Twitter"
-          },
-          {
-            "icon" : "github",
-            "link" : "https://github.com/jorgeucano",
-            "name" : "GitHub"
-          },
-          {
-            "icon" : "website",
-            "link" : "https://medium.com/@jorgeucano",
-            "name" : "Website"
-          }
-        ],
-        "title" : "Principal Engineer"
-      },
-      "loiane_groner" : {
-        "bio" : "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Developer Technologies and Oracle Groundbreaker Ambassador. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.",
-        "company" : "Citibank | loiane.training",
-        "companyLogoUrl" : "https://lh3.google.com/u/0/d/1-ZuilaC7Cg4B90JWl6gOgCf9DzeR2mcI=w1920-h947-iv1",
-        "country" : "Tampa, FL - USA",
-        "featured" : true,
-        "name" : "Loiane Groner",
-        "order" : 1,
-        "photoUrl" : "https://lh3.google.com/u/0/d/1F-Ff8vza8LXvpYTZd5Tg5B9vY6Uk8Pkl=w3840-h2082-iv1",
-        "shortBio" : "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Developer Technologies and Oracle Groundbreaker Ambassador. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.",
-        "socials" : [
-          {
-            "icon" : "twitter",
-            "link" : "https://twitter.com/loiane",
-            "name" : "Twitter"
-          },
-          {
-            "icon" : "github",
-            "link" : "https://github.com/loiane",
-            "name" : "GitHub"
-          },
-          {
-            "icon" : "website",
-            "link" : "https://loiane.com",
-            "name" : "Website"
-          }
-        ],
-        "title" : "Business Analyst / Developer"
-      },
-      "claudia_hernandez" : {
-        "bio" : "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
-        "company" : "npm",
-        "companyLogoUrl" : "https://lh3.google.com/u/0/d/1-ZuilaC7Cg4B90JWl6gOgCf9DzeR2mcI=w1920-h947-iv1",
-        "country" : "Athens, Greece",
-        "featured" : true,
-        "name" : "Claudia Hernández",
-        "order" : 2,
-        "photoUrl" : "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/31913755_10160097694925411_3418742926224654336_o.jpg?_nc_cat=100&_nc_ht=scontent.fath2-1.fna&oh=a543acbd070694e1da523a1994a6d8dc&oe=5D3FCA27",
-        "shortBio" : "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
-        "socials" : [
-          {
-            "icon" : "twitter",
-            "link" : "https://twitter.com/koste4",
-            "name" : "Twitter"
-          }
-        ],
-        "title" : "Software Engineer"
-      }
+  "speakers" : {
+    "jorge_cano" : {
+      "bio" : "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
+      "company" : "Hero Dev",
+      "companyLogoUrl" : "https://lh3.google.com/u/0/d/1-ZuilaC7Cg4B90JWl6gOgCf9DzeR2mcI=w1920-h947-iv1",
+      "country" : "Buenos Aires, Argentina",
+      "featured" : true,
+      "name" : "Jorge Cano",
+      "order" : 0,
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1088779016675430401/xDyQaZ0w_400x400.jpg",
+      "shortBio" : "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/jorgeucano",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/jorgeucano",
+          "name" : "GitHub"
+        },
+        {
+          "icon" : "website",
+          "link" : "https://medium.com/@jorgeucano",
+          "name" : "Website"
+        }
+      ],
+      "title" : "Principal Engineer"
+    },
+    "loiane_groner" : {
+      "bio" : "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Developer Technologies and Oracle Groundbreaker Ambassador. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.",
+      "company" : "Citibank | loiane.training",
+      "companyLogoUrl" : "https://lh3.google.com/u/0/d/1-ZuilaC7Cg4B90JWl6gOgCf9DzeR2mcI=w1920-h947-iv1",
+      "country" : "Tampa, FL - USA",
+      "featured" : true,
+      "name" : "Loiane Groner",
+      "order" : 1,
+      "photoUrl" : "https://lh3.google.com/u/0/d/1F-Ff8vza8LXvpYTZd5Tg5B9vY6Uk8Pkl=w3840-h2082-iv1",
+      "shortBio" : "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Developer Technologies and Oracle Groundbreaker Ambassador. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/loiane",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/loiane",
+          "name" : "GitHub"
+        },
+        {
+          "icon" : "website",
+          "link" : "https://loiane.com",
+          "name" : "Website"
+        }
+      ],
+      "title" : "Business Analyst / Developer"
+    },
+    "claudia_hernandez" : {
+      "bio" : "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
+      "company" : "npm",
+      "companyLogoUrl" : "https://lh3.google.com/u/0/d/1-ZuilaC7Cg4B90JWl6gOgCf9DzeR2mcI=w1920-h947-iv1",
+      "country" : "Athens, Greece",
+      "featured" : true,
+      "name" : "Claudia Hernández",
+      "order" : 2,
+      "photoUrl" : "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/31913755_10160097694925411_3418742926224654336_o.jpg?_nc_cat=100&_nc_ht=scontent.fath2-1.fna&oh=a543acbd070694e1da523a1994a6d8dc&oe=5D3FCA27",
+      "shortBio" : "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/koste4",
+          "name" : "Twitter"
+        }
+      ],
+      "title" : "Software Engineer"
     }
-  ],
+  },
+  "team" : [], 
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
@@ -928,5 +927,6 @@
     "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(469).jpg?alt=media&token=80669b99-81f4-4d7d-8160-e0174da62b85",
     "title" : "100x impact - from an Individual Contributor to Technical Leader",
     "youtubeId" : "O1dtdDpQXU8"
-  } ]
+  } ],
+  "previousSpeakers": {}
 }
