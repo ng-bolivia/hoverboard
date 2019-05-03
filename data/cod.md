@@ -1,26 +1,27 @@
-**NG Bolivia** es la conferencia anual donde personas de todo el país vienen a compartir ideas, experiencias, nuevas prácticas y por supuesto la firme convicción de engrandecer esta comunidad y que las nuevas conexiones que se hagan durante el tiempo que dure la conferencia sean duraderas para este año y los que vengan.
+**NG Bolivia** is the annual conference where people all over the country come to share ideas, experiences, new practices and, of course, the firm conviction to strengthen the community, and that the new connections made through the time spend in the conference are long lasting for this year and years to come.
 
-Para este propósito la organización trabaja duro para fortalecer la comunidad e invitar a nuevas personas hacia la misma con el único propósito de trasmitir la pasión por la tecnología en la cual estamos involucrados. Es por eso que estamos convencidos de que para lograr que la comunidad sea una de las mejores consideramos que es importante tomar en cuenta diversos grupos de personas sin importar el **sexo**, **identidad y expresión de género**, **orientación sexual**, **discapacidad**, **apariencia física**, **tamaño corporal**, **raza**, **afiliación política o religión**.
+To achieve this goal, the organization works hard to enforce the community and invite new people to join, with the only purpose of share the passion for the technology in which we are involved. That's why we are convinced, that to make this community one of the best, we have to take into account diverse groups of people without caring about their **gender**, **identity**, **sexual orientation**, **disability**, **physical appearance**, **corporal size**, **race**, **political affiliation or religion**.
 
-Pero también estamos convencidos que para lograr este propósito es importante contar con el compromiso no solo del equipo organizador, sino también de los expositores y por supuesto de todos los asistentes a la conferencia.
+But, we are also convice that to achieve this goal, it's important to have the compromise not only of the staff team, but the speakers and, of course, all the conference assistants.
 
-Es por eso que hemos establecidos ciertas reglas de conducta, mismas que marcarán la pauta para garantizar una estadía amigable e inolvidable para todos.
+That's why we established some rules of conduct. These will mark the guidelines to guarantee a friendly and unforgettable stay for everyone.
 
-## Reglas de Conducta:
+## Rules of Conduct:
 
-* Evitar hablar en un tono que pueda ser ofensivo para las personas que están alrededor tuyo y que puedan hacer sentir incomodo y/o ofendido.
+* Avoid talking in a tone that may be offensive or could make feel uncomfortable and/or insulted to the people around you.
 
-* Evitar hacer **burlas y/o comentarios** que involucren al sexo, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, afiliación política o religión.
+* Avoid making **jokes and/or comments** involved with gender, identity, sexual orientation, disability, physical appearance, corporal size, race, political affiliation or religion.
 
-* Cualquier nuevo vínculo formado entre los asistentes, disertantes y el staff será estrictamente relacionado a la conferencia, ya que este evento no es un lugar para buscar romance o relaciones de otra índole.
+* Any new relationship made between assistants, speakers and the staff will be strictly related with the conference. This event doesn't have the purpose to look for romance or relationships of another kind.
 
-* No está permitido el *Bullying* venga de donde venga esto incluye al staff, disertantes y visitantes.
+* *Bullying* is not allowed for no reason, including staff, speakers or assistants.
 
-* Evitar temas polarizados que pueda hacer sentir incómodo a otras personas, por ejemplo hablar específicamente de algún partido político o religión.
+* Avoid polarized themes that could make feel uncomfortable to other people, for example, talk about some specific political party or religion.
 
-## Reportar Violaciones al código de conducta:
-El equipo ha diseñado mecanismo para poder ayudar a reportar algún hecho que rompa el código de conducta.
+## Report violations to the Code of Conduct:
 
-Si fuiste testigo de algún hecho de violación al código de conducta inmediatamente busca a algún miembro del staff que estará adecuadamente identificado.
+The team has designed the mechanism to help you to report any act that breaks the code of conduct.
 
-El equipo organizador se guarda el derecho a tomar las debidas acciones ante el incumplimiento del código de conducta, estas acciones pueden ir desde retirarlos inmediatamente de la conferencia sin derecho a devolución alguna y/o dependiendo de la gravedad del caso se dará aviso a las autoridades correspondientes en nuestro territorio.
+If you witnessed any act that breaks the code of conduct. Look for some staff member immediately, they will be properly identified.
+
+The organization team keeps the right to take the proper actions if someone breaks the code of conduct. These actions can range from withdrawing them from the conference without the right to any refund, and/or, according to the seriousness of the case, the corresponding authorities in our territory will be notified.
