@@ -1,6 +1,6 @@
 {
   "title": "NG Bolivia 2019",
-  "description": "Se parte de la conferencia internacional de Angular en Bolivia.",
+  "description": "Be part of the Angular's international conference in Bolivia.",
   "image": "images/social-share.jpg",
   "keywords": "event, angular, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "August 23-24, 2019",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore Past Conferences",
       "links": [
         {
           "name": "NG Bolivia 2018",
@@ -145,7 +145,7 @@
     "title": "Ng Bolivia 2018 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/playlist?list=PLRejFvqDqGo6AMNYSLluAVGbq-CHQ0Lkt"
     }
   },
   "blog": {

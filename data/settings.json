@@ -1,21 +1,21 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
+    "name": "Angular Bolivia",
+    "twitter": "angularBolivia",
+    "blog": "https://medium.com/angular-bolivia",
     "url": "http://lviv.gdg.org.ua/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "ngBolivia",
     "themeColor": "#000000",
     "backgroundColor": "#000000"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "ngBolivia19",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -139,23 +139,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/Angular-Bolivia/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/angular.bolivia/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/angularBolivia/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/angular.bolivia/"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/playlist?list=PLRejFvqDqGo6AMNYSLluAVGbq-CHQ0Lkt"
       }
     ],
     "share": [
@@ -173,7 +173,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "angular.bolivia@gmail.com",
   "mailchimp": {
     "url": "https://ng-bolivia.us18.list-manage.com/subscribe/post?u=c936d9c2d7735e2d92050aaea&amp;id=8a9443bf81",
     "name": "b_c936d9c2d7735e2d92050aaea_8a9443bf81"
