@@ -39,11 +39,6 @@
           "name": "Angular Bolivia",
           "url": "https://www.meetup.com/es/Angular-Bolivia/",
           "newTab": true
-        },
-        {
-          "name": "Conocer al equipo",
-          "url": "https://ngboliviadev.firebaseapp.com/team/",
-          "newTab": true
         }
       ]
     },
@@ -61,23 +56,8 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "name": "Call for Speakers",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeXyM2y97HYshC8aHAeGOdUOC6Qf2y8yUpyZfNZbB00LtpG_w/viewform?usp=sf_link",
           "newTab": true
         },
         {
