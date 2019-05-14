@@ -1,4 +1,4 @@
-<p>NG BOLIVIA 2019 has been announced! The second edition of the biggest conference about Angular and web technologies in Bolivia will take place on August 23-24 in Cochabamba city.</p>
+<p>NG BOLIVIA 2019 has been announced! The second edition of the biggest conference about Angular and Web Technologies in Bolivia will take place on 23rd and 24th of August in Cochabamba city.</p>
 
 <p>
 That means that it is time to open a call for talk submissions. If you are passionate about your work and want to share your experience with the biggest tech audience in Bolivia, you knocked on the right door.
@@ -24,9 +24,9 @@ Well, do you know a better way to attend the conference? Here are our top 3 reas
   <li>Unique networking. Being a speaker means you’ll have unique chances to network with other speakers - the best experts in the industry.</li>
 </ul>
 
-<h2> Themes and topics – what do we expect? </h2>
+<h2> Suggested topics for the conference</h2>
 
-This year we ask us community about interests for ng Bolivia 2019 for you can choose the correct propose.
+This year we asked our community about interests for NG Bolivia 2019 and these are the results:
 
 <div style="display:flex; margin-top:10px;">
   <div>
@@ -38,6 +38,20 @@ This year we ask us community about interests for ng Bolivia 2019 for you can ch
 </div>
 
 <br/>
+
+<h2> Advanced, Intermediate or Beginner level talks </h2>
+
+The results for this question on the survey was unexpected, most of attendees prefer intermediate and advanced level talks as you can see here:
+
+<div style="display:flex; margin-top:10px;">
+  <div>
+    <img style="max-width:100%" src="https://i.imgur.com/dgYwj0J.png" />
+  </div>
+</div>
+
+<br/>
+
+<h2> Call For Speakers Deadline </h2>
 
 The call for Papers will stay open until June 14, 2019. 23:59 Bolivian Time(UTC-4) Don’t miss out :)
 

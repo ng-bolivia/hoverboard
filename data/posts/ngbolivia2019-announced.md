@@ -1,4 +1,4 @@
-Angular Bolivia community members are proud to announce the second Angular Conference in Bolivia, which is the biggest Web and Angular related event in Bolivia carefully crafted by the community! The event will take place on the 23-24th of August in Cochabamba.
+Angular Bolivia community members are proud to announce the second edition of NG Bolivia conference, which is the biggest Web and Angular related event in the country carefully crafted by the community! The event will take place on 23rd and 24th of August in Cochabamba.
 
 <!-- <div layout horizontal center-justified>
   <a href="https://2event.com/events/800690" rel="noopener noreferrer">
