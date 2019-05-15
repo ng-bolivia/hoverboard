@@ -1098,6 +1098,19 @@
         }
       ],
       "title": "Software Engineer"
+    },
+    "you": {
+      "bio": "Apply for Call For Speakers and stay tuned!",
+      "company": "Your Company",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/ngboliviadev.appspot.com/o/logos%2Fng-bolivia19.png?alt=media&token=52b6405e-bba7-426a-b589-4ea058fd785a",
+      "country": "Your Country",
+      "featured": false,
+      "name": "You?",
+      "order": 4,
+      "photoUrl": "https://i0.wp.com/www.calvary.edu/wp-content/uploads/2016/08/person-placeholder.jpg?w=500&ssl=1",
+      "shortBio": "Apply for Call For Speakers and stay tuned!",
+      "socials": [],
+      "title": "Awesome Speaker"
     }
   },
   "team": [],
