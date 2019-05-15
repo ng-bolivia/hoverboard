@@ -983,14 +983,48 @@
     }
   },
   "speakers": {
+    "aaron_frost" : {
+      "badges" : [{
+        "description" : "Google Developer Expert",
+        "link" : "https://developers.google.com/programs/experts/directory/",
+        "name" : "gde"
+      }],
+      "bio" : "Frosty is as passionate about coding as he is about tacos. Where some people see a new sunrise, he sees another opportunity to write code and eat good food. As one of the founders of HeroDevs, Frosty also runs a team of elite web developers who solve complex problems every day. In his off hours, he enjoys being a dad to his five best friends. And when he’s really lucky, he heads to the mountains to enjoys some time fishing.",
+      "company" : "Hero Devs",
+      "companyLogoUrl" : "https://pbs.twimg.com/profile_images/1044807506093109248/3q4-p94O_400x400.jpg",
+      "country" : "Salt Lake City, Utah - USA",
+      "featured" : true,
+      "name" : "Aaron Frost",
+      "order" : 0,
+      "photoUrl" : "https://www.ng-conf.org/wp-content/uploads/2018/11/frost-avatar-520x371.jpg",
+      "shortBio" : "Frosty is as passionate about coding as he is about tacos. Where some people see a new sunrise, he sees another opportunity to write code and eat good food. As one of the founders of HeroDevs, Frosty also runs a team of elite web developers who solve complex problems every day. In his off hours, he enjoys being a dad to his five best friends. And when he’s really lucky, he heads to the mountains to enjoys some time fishing.",
+      "socials" : [
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/aaronfrost",
+          "name" : "Twitter"
+        },
+        {
+          "icon" : "github",
+          "link" : "https://github.com/aaronfrost",
+          "name" : "GitHub"
+        }
+      ],
+      "title" : "CEO and Founder"
+    },
     "jorge_cano": {
+      "badges" : [{
+        "description" : "Google Developer Expert",
+        "link" : "https://developers.google.com/programs/experts/directory/",
+        "name" : "gde"
+      }],
       "bio": "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
       "company": "Hero Dev",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/ngboliviadev.appspot.com/o/logos%2Fng-bolivia19.png?alt=media&token=52b6405e-bba7-426a-b589-4ea058fd785a",
+      "companyLogoUrl": "https://pbs.twimg.com/profile_images/1044807506093109248/3q4-p94O_400x400.jpg",
       "country": "Buenos Aires, Argentina",
       "featured": true,
       "name": "Jorge Cano",
-      "order": 0,
+      "order": 1,
       "photoUrl": "https://pbs.twimg.com/profile_images/1088779016675430401/xDyQaZ0w_400x400.jpg",
       "shortBio": "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
       "socials": [
@@ -1013,13 +1047,18 @@
       "title": "Principal Engineer"
     },
     "loiane_groner": {
+      "badges" : [{
+        "description" : "Google Developer Expert",
+        "link" : "https://developers.google.com/programs/experts/directory/",
+        "name" : "gde"
+      }],
       "bio": "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Developer Technologies and Oracle Groundbreaker Ambassador. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.",
       "company": "Citibank | loiane.training",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/ngboliviadev.appspot.com/o/logos%2Fng-bolivia19.png?alt=media&token=52b6405e-bba7-426a-b589-4ea058fd785a",
+      "companyLogoUrl": "http://www.stickpng.com/assets/images/5847e7c1cef1014c0b5e4813.png",
       "country": "Tampa, FL - USA",
       "featured": true,
       "name": "Loiane Groner",
-      "order": 1,
+      "order": 2,
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/ngboliviadev.appspot.com/o/profile%20pictures%2Floiane_conf.jpg?alt=media&token=1812e8b5-3743-47de-9587-d38569407e92",
       "shortBio": "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Developer Technologies and Oracle Groundbreaker Ambassador. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.",
       "socials": [
@@ -1044,11 +1083,11 @@
     "claudia_hernandez": {
       "bio": "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
       "company": "npm",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/ngboliviadev.appspot.com/o/logos%2Fng-bolivia19.png?alt=media&token=52b6405e-bba7-426a-b589-4ea058fd785a",
+      "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg",
       "country": "Athens, Greece",
       "featured": true,
       "name": "Claudia Hernández",
-      "order": 2,
+      "order": 3,
       "photoUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/31913755_10160097694925411_3418742926224654336_o.jpg?_nc_cat=100&_nc_ht=scontent.fath2-1.fna&oh=a543acbd070694e1da523a1994a6d8dc&oe=5D3FCA27",
       "shortBio": "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
       "socials": [
