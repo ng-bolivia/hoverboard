@@ -39,10 +39,10 @@
     "home": {
       "description": "Powered by Angular Bolivia community!",
       "background": {
-        "color": "#673ab7",
-        "image": "/images/backgrounds/angularcommunity.jpg"
+        "color": "#fff",
+        "image": "/images/backgrounds/background.png"
       },
-      "fontColor": "#FFF"
+      "fontColor": "#000"
     },
     "blog": {
       "title": "Blog",

@@ -33,7 +33,7 @@ This year we asked our community about interests for NG Bolivia 2019 and these a
     <img style="max-width:100%" src="https://i.imgur.com/ve8BkmB.png" />
   </div>
   <div>
-    <img style="max-width:100%" src="https://i.imgur.com/AClbNzT.png />
+    <img style="max-width:100%" src="https://i.imgur.com/AClbNzT.png"/>
   </div>
 </div>
 
@@ -42,10 +42,9 @@ This year we asked our community about interests for NG Bolivia 2019 and these a
 <h2> Advanced, Intermediate or Beginner level talks </h2>
 
 The results for this question on the survey was unexpected, most of attendees prefer intermediate and advanced level talks as you can see here:
-
 <div style="display:flex; margin-top:10px;">
   <div>
-    <img style="max-width:100%" src="https://i.imgur.com/dgYwj0J.png" />
+    <img style="max-width: 60%;margin: 0 auto;display: block;" src="https://i.imgur.com/e4YILM7.png" />
   </div>
 </div>
 
