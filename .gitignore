@@ -9,7 +9,10 @@ functions/lib/
 .firebase/
 /appengine/dist/
 serviceAccount.json
+serviceAccount.prod.json
 npm-debug.log
 firebase-debug.log
 .DS_Store
 .firebase/
+
+
