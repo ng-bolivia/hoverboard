@@ -30,10 +30,10 @@ This year we asked our community about interests for NG Bolivia 2019 and these a
 
 <div style="display:flex; margin-top:10px;">
   <div>
-    <img style="max-width:100%" src="https://i.imgur.com/00K5YAh.png" />
+    <img style="max-width:100%" src="https://i.imgur.com/ve8BkmB.png" />
   </div>
   <div>
-    <img style="max-width:100%" src="https://i.imgur.com/UYiu4B0.png" />
+    <img style="max-width:100%" src="https://i.imgur.com/AClbNzT.png />
   </div>
 </div>
 
