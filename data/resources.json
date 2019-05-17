@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "NG Bolivia 2019",
+  "description": "Be part of the Angular's international conference in Bolivia.",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "event, angular, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "August 23-24, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Buy Ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -19,7 +19,7 @@
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
   "refresh": "Refresh",
-  "position": "Position",
+  "position": "Location",
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
@@ -36,43 +36,18 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Angular Bolivia",
+          "url": "https://www.meetup.com/es/Angular-Bolivia/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore Past Conferences",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "NG Bolivia 2018",
+          "url": "https://2018.ng-bolivia.org/",
           "newTab": true
         }
       ]
@@ -81,23 +56,8 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "name": "Call for Speakers",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeXyM2y97HYshC8aHAeGOdUOC6Qf2y8yUpyZfNZbB00LtpG_w/viewform?usp=sf_link",
           "newTab": true
         },
         {
@@ -111,23 +71,23 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "What you need to know, before you ask",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "The biggest Angular conference in Bolivia, our team creates that event to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": "https://www.youtube.com/playlist?list=PLRejFvqDqGo6AMNYSLluAVGbq-CHQ0Lkt"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "NG Bolivia 2019, brings together the world-class experts in Angular, Web and  Mobile technologies to Cochabamba, Bolivia for 2 days of sessions, workshops, and showcases.",
+        "label": "See how it was in 2018",
+        "youtubeId": "Q3pp4bm5H3I"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "300+"
       },
       "days": {
         "label": "Days",
@@ -135,17 +95,17 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "20+"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Workshops",
+        "number": "4+"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all conference sections, and infinite coffee cups. Accommodation is NOT included in the ticket price.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -162,10 +122,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Ng Bolivia 2018 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/playlist?list=PLRejFvqDqGo6AMNYSLluAVGbq-CHQ0Lkt"
     }
   },
   "blog": {
@@ -185,7 +145,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Featured speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -199,11 +159,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#ngbolivia18 photos",
+    "description": "NG Bolivia 2018 generated a lot of excitement. Look at the photos of the talks, the learning sessions and the after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/F8bx9jVHN8Twciuv5"
     }
   },
   "mapBlock": {
@@ -218,7 +178,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about NG Bolivia 2019 sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
