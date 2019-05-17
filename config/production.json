@@ -4,12 +4,13 @@
   "analytics": "UA-119039264-1",
   "prefix": "/",
   "firebase": {
-    "apiKey": "",
-    "authDomain": "",
-    "databaseURL": "",
-    "projectId": "",
-    "storageBucket": "",
-    "messagingSenderId": ""
+    "apiKey": "AIzaSyAR5T65trNYrYEH_s3SvyhPa4xlyHV859g",
+    "authDomain": "ngbolivia-2019.firebaseapp.com",
+    "databaseURL": "https://ngbolivia-2019.firebaseio.com",
+    "projectId": "ngbolivia-2019",
+    "storageBucket": "ngbolivia-2019.appspot.com",
+    "messagingSenderId": "52641081797",
+    "appId": "1:52641081797:web:912cb30883bf9afd"
   },
-  "googleMapApiKey": "AIzaSyC_UbHVz3BKN3qi-i2nS3nc8hyYU4MjUMI"
+  "googleMapApiKey": "AIzaSyBgMH2vF4KVZQkEgs1wENq9jpuguuKMfBU"
 }
