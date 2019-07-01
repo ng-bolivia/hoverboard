@@ -1,6 +1,6 @@
 {
   "basepath": "/",
-  "url": "https://ngboliviadev.firebaseapp.com/",
+  "url": "https://ngbolivia-2019.firebaseio.com",
   "analytics": "UA-119039264-2",
   "prefix": "/",
   "firebase": {
