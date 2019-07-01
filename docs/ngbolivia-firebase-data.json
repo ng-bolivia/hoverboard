@@ -42,85 +42,13 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
+          "logoUrl": "../images/logos/jetbrains.png",
+          "name": "Jet Brains",
+          "url": "https://www.jetbrains.com/"
         }
       ],
       "order": 0,
-      "title": "Template Creator"
-    },
-    {
-      "logos": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 5,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 6,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 7,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 8,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 9,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 10,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        }
-      ],
-      "order": 1,
-      "title": "General Partner"
+      "title": "Sponsors"
     }
   ],
   "schedule": {
@@ -1077,25 +1005,6 @@
         }
       ],
       "title": "Business Analyst / Developer"
-    },
-    "claudia_hernandez": {
-      "bio": "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
-      "company": "npm",
-      "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg",
-      "country": "Athens, Greece",
-      "featured": true,
-      "name": "Claudia Hernández",
-      "order": 3,
-      "photoUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/31913755_10160097694925411_3418742926224654336_o.jpg?_nc_cat=100&_nc_ht=scontent.fath2-1.fna&oh=a543acbd070694e1da523a1994a6d8dc&oe=5D3FCA27",
-      "shortBio": "Claudia Hernández is a mexican software engineer at npm. She has previously worked for Auth0, Dailymotion in Paris and other projects for companies such as Air France, EDF, Groupe SEB and Aéroport de Paris. Claudia has a computer science background and loves learning emerging web technologies. When she is not coding, chances are you’ll find her reading a book ! Claudia also loves traveling and discovering new cultures.",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/koste4",
-          "name": "Twitter"
-        }
-      ],
-      "title": "Software Engineer"
     },
     "you": {
       "bio": "Apply for Call For Speakers and stay tuned!",

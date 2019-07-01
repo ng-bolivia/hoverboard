@@ -56,6 +56,11 @@
       "title": "Event Resources",
       "links": [
         {
+          "name": "Partnership Proposition",
+          "url": "https://drive.google.com/file/d/1mglkdk1XVHrJR8M0--sSgEwrQ8PNvpcy/view?usp=sharing",
+          "newTab": true
+        },
+        {
           "name": "Call for Speakers",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSeXyM2y97HYshC8aHAeGOdUOC6Qf2y8yUpyZfNZbB00LtpG_w/viewform?usp=sf_link",
           "newTab": true
@@ -220,18 +225,18 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='/team'>Ng Bolivia Team</a> is a group the incredible people ready to make an amazing event",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "What is Angular Bolivia?",
+        "description": "Angular Bolivia is open and volunteer geek community who share projects, experiences, and knowledge about Angular Framework with passion.",
         "callToAction": {
           "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "link": "https://www.meetup.com/es/Angular-Bolivia/",
           "newTab": true
         }
       }
