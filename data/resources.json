@@ -110,7 +110,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, and infinite coffee cups. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all talks at the conference, and infinite coffee cups.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
