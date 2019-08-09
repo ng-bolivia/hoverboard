@@ -1,5 +1,13 @@
 {
   "blog": {
+    "FAQ": {
+      "backgroundColor": "white",
+      "brief": "NG Bolivia es la conferencia internacional más importante sobre Desarrollo Web, JavaScript y Angular en Bolivia.",
+      "content": "",
+      "image": "https://lh3.googleusercontent.com/WrMHxGZwPIhFxwkdjpl1BX36E382v4pbWY0F1sG6T6xn-jfVGzsH9j-VmlRhagqp9ypcBg8Kw3r8dZ4f3WNfIUogPr22qn-e4pkapBfS7DKIz-l8ooCsMde6ZQixqIhHdpxZy9W4kVpYHzgiw4zGuqSdHbtK9IY8gVkYfRU9GP6YwMPjKwLCtubEe44DsvCIP5t4begwPh8ezs6XizTSrFGeWuIa7MWuj-R_om5I5oj7NCxDWuyEdzbGT2PXRM6haziFbV2h5kQIa65FE7j7m0yNWcjVwvE9FcqjyiZ62Qds-qymrG-gnMpyYCP0ndHMkRI42gPtHc7WySpnjSWTLvZPVDZtPhGvWVUFtoA3AlJmHGgpd0M3Cxh7mL0WKD7EMvBllTcqXW6rAIjBkImIBhBkzyWoYtqwCK_VXdDeiBL5aotvLADZ3W0HP4-Dndwk9xv_aLDpXKgycwZdXhBEV26oyNwRgIGgiXl4mxz3ocuaE3h8Uff9qof3pzwS3pou_OdD85jLBnXbipf9GSStBl6CFW2amt4HIGT3l96rCW-i_v0JK8mArcj1CfeLKI5xT2cae0PsuAsJ-N1qenRQ9cjzUgBPTJx9Mwi2TrqKMhrhwLyjHiOvDszyQwqyTmoW6qLZRWUpZsRrAtf9_8-lj576C06J_CFMwtY-aFVOxKMOrOql3CgmwJ54-9p4e8lU2t40oftO7BdlTuTnbGRnykw=w1082-h721-no",
+      "published": "2019-08-06",
+      "title": "Preguntas Frecuentes"
+    },
     "ng-bolivia-2019-announced": {
       "backgroundColor": "white",
       "brief": "Angular Bolivia community members are proud to announce the second edition of NG Bolivia conference.",
